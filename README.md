@@ -62,7 +62,7 @@ Now that we have a better understanding of servo motors, let's proceed with the 
 
 The code for this project is written in C++, which is the primary programming language used for Arduino development. The Arduino Uno board is programmed using the Arduino IDE, which provides a user-friendly interface and a suite of libraries to interact with various hardware components.
 
-Here's the high-level overview of the steps involved:
+- Here's the high-level overview of the steps involved:
 
 1. Connect the 6 servo motors to the Arduino Uno board using the appropriate pins and jumper wires.
 2. Import the necessary Arduino libraries, such as the `` <Servo.h>`` library, to control the servo motors.
@@ -71,7 +71,7 @@ Here's the high-level overview of the steps involved:
 5. Upload the code to the Arduino Uno board and test the circuit in the Tinkercad simulation.
 
 
-By following these steps, you can create a fully functional electrical circuit that controls 6 servo motors in a synchronized and choreographed manner. The Tinkercad platform provides a convenient way to simulate and test the circuit without the need for physical hardware.
+By following these steps, you can create a fully functional electrical circuit that controls 6 servo motors in a synchronized and choreographed manner. 
 
 You can view the full code [HERE](https://github.com/alanoudmk/Electrical-Circuit-with-6-Servo-Motors/blob/main/ServoMotorCode.cpp).
 
