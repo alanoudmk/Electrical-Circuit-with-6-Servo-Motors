@@ -1,4 +1,6 @@
-# Connecting and Programming an Electrical Circuit with 6 Servo Motors:
+# Connecting and Programming an Electrical Circuit with 6 Servo Motors
+
+***
 
 ## Project Description:
 This project aims to control 6 servo motors by sweeping them through a range of 0 to 180 degrees in 10-degree increments, and then sweeping them back to 0 degrees in 10-degree decrements. The servo movements are synchronized, with a delay between each servo movement to create a smooth, choreographed effect.
@@ -12,6 +14,8 @@ Hardware Used:
   3. Jumper wires or Cables
   4. Breadboard
 
+
+***
 
 ## Servo Motors:
 
