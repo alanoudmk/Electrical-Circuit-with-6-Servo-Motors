@@ -69,7 +69,7 @@ Here's the high-level overview of the steps involved:
 
 By following these steps, you can create a fully functional electrical circuit that controls 6 servo motors in a synchronized and choreographed manner. The Tinkercad platform provides a convenient way to simulate and test the circuit without the need for physical hardware.
 
-You can view the [FULL CODE](https://github.com/alanoudmk/Electrical-Circuit-with-6-Servo-Motors/blob/main/ServoMotor.cpp).
+You can view the [FULL CODE](https://github.com/alanoudmk/Electrical-Circuit-with-6-Servo-Motors/blob/main/ServoMotorCode.cpp).
 
 
 https://github.com/user-attachments/assets/6bc8a9ba-492a-4f23-8516-404aa92419a4
