@@ -13,6 +13,7 @@ Hardware Used:
   2. 6 Micro Servo Motors
   3. Jumper wires or Cables
   4. Breadboard
+  5. Power Supply
 
 
 ***
